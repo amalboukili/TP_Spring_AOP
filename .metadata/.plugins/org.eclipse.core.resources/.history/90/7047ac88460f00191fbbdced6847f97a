@@ -1,0 +1,5 @@
+package com.formation.spring.service;
+
+public class ServiceMetier {
+
+}

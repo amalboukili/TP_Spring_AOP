@@ -1,0 +1,5 @@
+package com.formation.spring.aop;
+
+public class LoggerAdherent {
+
+}
